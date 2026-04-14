@@ -23,3 +23,6 @@
 ## Get in touch
 
 - 🐦 [@0xlapiece](https://twitter.com/0xlapiece)
+
+
+[![laapiece's GitHub stats](https://github-readme-stats.vercel.app/api?username=laapiece)](https://github.com/laapiece/github-readme-stats)
