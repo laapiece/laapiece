@@ -1,6 +1,6 @@
 # Hi, I'm laapiece 👋
 
-📍 South of France | 💻 Developer/Founder | 🌐 Running a web agency for local businesses
+📍 France | 💻 Developer/Founder | 🌐 Running a web agency for local businesses and other SaaS
 
 ![Python](https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=python&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat&logo=javascript&logoColor=white)
@@ -15,7 +15,7 @@
  
 - 🌐 **[Studio DA](https://studioda.fr)** — Web agency for local tradespeople (my main gig right now)
 - 💻 **[ReadTheVid](https://readthevid.com/)** — Convert youtube to transcript, w/AI Features
-- 🌐 **[Goals](https://studioda.fr)** — The best habit tracker IOS app (lanching in May)
+- 📱 **[Goals](https://studioda.fr)** — The best habit tracker IOS app (lanching in May)
 - 📡 **Home lab** — Network switch config, VLANs, SIP/VoIP, Linux softphones
 - 📝 **Tech writing** — Critical takes published on Medium
  
