@@ -16,9 +16,9 @@
 - 🌐 **[Studio DA](https://studioda.fr)** — Web agency for local tradespeople (my main gig right now)
 - 💻 **[ReadTheVid](https://readthevid.com/)** — Convert youtube to transcript, w/AI Features
 - 📱 **[Goals](https://studioda.fr)** — The best habit tracker IOS app (lanching in May)
-- 📡 **Home lab** — Network switch config, VLANs, SIP/VoIP, Linux softphones
-- 📝 **Tech writing** — Critical takes published on Medium
- 
+- 🗣️ **[Recita](https://echoia.io)** — Teleprompter app
+- 📈 **[Echoia](https://echoia.io)** — Social media management platform, centralize all your account and competitors analysis, for people that sells
+
 ---
  
 ## Get in touch
