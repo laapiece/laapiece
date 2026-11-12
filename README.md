@@ -15,7 +15,7 @@
  
 - 🌐 **[Studio DA](https://studioda.fr)** — Web agency for local tradespeople (my main gig right now)
 - 💻 **[ReadTheVid](https://readthevid.com/)** — Convert youtube to transcript, w/AI Features
-- 📱 **[Goals]([https://apps.apple.com/fr/app/goals-habit-tracker/id6772120205)** — The best habit tracker IOS app (lanching in May)
+- 📱 **[Goals](https://apps.apple.com/fr/app/goals-habit-tracker/id6772120205)** — The best habit tracker IOS app
 - 🗣️ **Recita** — Teleprompter app
 - 📈 **[Echoia](https://echoia.io)** — Social media management platform, centralize all your account and competitors analysis, for people that sells
 - 🧭 **Shipped** — Changlog automation API for Indie Hackers
